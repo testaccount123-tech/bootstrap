@@ -1,0 +1,10 @@
+/* Pull request to address issue #8 */
+
+/* CSS to adjust autofilled input box font size */
+
+input:-webkit-autofill {
+    font-size: inherit !important; 
+    /* Inherit font size from parent for consistency with non-autofilled fields */
+}
+
+/* You may add additional styles or JS to further address the issue */

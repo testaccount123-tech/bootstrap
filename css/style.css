@@ -1,0 +1,4 @@
+// CSS fix for auto-filled input font-size issue
+input:-webkit-autofill {
+    font-size: 16px;
+}

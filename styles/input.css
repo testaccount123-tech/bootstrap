@@ -1,0 +1,4 @@
+/* Added rule to ensure auto-filled input fields have consistent font size */
+input:-webkit-autofill {
+    font-size: 16px;
+}

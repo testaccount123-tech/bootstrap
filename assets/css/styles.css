@@ -1,0 +1,14 @@
+/* CSS code to adjust the autofill text size */
+input:-webkit-autofill {
+    font-size: 16px !important;
+}
+input:-moz-autofill {
+    font-size: 16px !important;
+}
+input:-ms-autofill {
+    font-size: 16px !important;
+}
+input:-o-autofill {
+    font-size: 16px !important;
+}
+/* end of adjustment */
